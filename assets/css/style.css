@@ -816,14 +816,14 @@
 			background: #fff;
 			border-color: rgba(255,255,255,0);
 			color: #f08c89;
-			font-size: 1.25em;
+			font-size: 1.5em;
 		}
 
 			#hero .button:hover
 			{
-				border-color: rgba(255,255,255,0.75);
-				background-color: rgb(0, 0, 0);
-				color: #00fff5;
+                border-color: rgba(255,255,255,0.75);
+                background-color: rgba(255,255,255,0.15);
+                color: #fff;
 			}
 
 		#hero a

@@ -1,3 +1,6 @@
+##FAQ
+<p></p>
+
 ## Why does TheoTech need to exist?
 Because opportunities to use technology to advance the gospel are so vast, it takes a company to deliver real and worthy results. A company is needed to align people’s interests and labor over the long term towards fulfilling Gospel-centered goals via invention.
 ## What is TheoTech?
@@ -5,8 +8,6 @@ It is a company that practices Technology Entrepreneurship for the Gospel. It as
 ## How does TheoTech fulfill its purpose?
 Read this document about what TheoTech does.
 We look for virtuous cycles where investments of time and energy produce momentum towards kingdom outcomes. This means that we have leverage--more value is produced than consumed. Here is a sample flywheel for increasing personal prayer.
-
-
 
 ## What could happen if TheoTech succeeds and is it worth it?
 If TheoTech succeeds, its Kingdom investors will have more capital to invest in Kingdom outcomes, its employees and collaborators will be well provided for and overjoyed at the opportunity to use their gifts to advance the Gospel, and its customers will be blessed with products that help them to love God and one another. The side-effect of these outcomes is many joyful foretastes of the Kingdom of God enjoyed to the ends of the earth.
