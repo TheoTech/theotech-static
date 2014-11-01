@@ -482,7 +482,7 @@
 		.button
 		{
 			display: inline-block;
-			color: inherit;
+			color: #000000;
 			background: none;
 			text-decoration: none;
 			border: solid 1px #c2c7cc;
@@ -502,8 +502,8 @@
 			input[type="reset"]:hover,
 			.button:hover
 			{
-				color: #f35858;
-				border-color: rgba(243,88,88,0.5);
+				color: #cfaf24;
+				border-color: rgba(235, 237, 44, 0.50);
 			}
 
 /*********************************************************************************/
@@ -813,10 +813,10 @@
 
 		#hero .button
 		{
-			background: #fff;
+			background: #b1aeaa;
 			border-color: rgba(255,255,255,0);
-			color: #f08c89;
-			font-size: 1.5em;
+			color: #ebed2c;
+			font-size: 1.75em;
 		}
 
 			#hero .button:hover
