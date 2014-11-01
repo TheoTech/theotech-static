@@ -1,127 +1,57 @@
 ---
-layout: src/templates/layouts/productpage.hbs
+layout: src/templates/layouts/no-sidebar.hbs
+products:
+- title:
+    SPF.IO
+  tagline:
+    Deliver amazing multilingual experiences 
+  link:
+    http://spf.io
+- title:
+    Ceaseless
+  tagline:
+    Experience the joy of praying for others
+  link:
+    http://ceaselessprayer.com
+- title:
+    Project FIG
+  tagline:
+    Navigate the Bible in any language with your voice 
+  link:
+    http://fig.theotech.org
 ---
+<!-- Header -->
+<div id="header-wrapper">
+    <div id="header" class="container">
 
-<div class="wrapper">
-    <div class="container" id="sub1">
-        <article id="content">
-            <header>
-                <h2>SPF.io</h2>
-                <p>What is SPF.io?</p>
-            </header>
-            <a href="#" class="image featured"><img src="images/pic06.jpg" alt="" /></a>
-
-
-            <p>Product placement here</p>
-            <p>Ut sed tortor luctus, gravida nibh eget, volutpat odio. Proin rhoncus, sapien
-                mollis luctus hendrerit, orci dui viverra metus, et cursus nulla mi sed elit. Vestibulum
-                condimentum, mauris a mattis vestibulum, urna mauris cursus lorem, eu fringilla lacus
-                ante non est. Nullam vitae feugiat libero, eu consequat sem. Proin tincidunt neque
-                eros. Duis faucibus blandit ligula, mollis commodo risus sodales at. Sed rutrum et
-                turpis vel blandit. Nullam ornare congue massa, at commodo nunc venenatis varius.
-                Praesent mollis nisi at vestibulum aliquet. Sed sagittis congue urna ac consectetur.</p>
-            <p>Mauris eleifend eleifend felis aliquet ornare. Vestibulum porta velit at elementum
-                gravida nibh eget, volutpat odio. Proin rhoncus, sapien
-                mollis luctus hendrerit, orci dui viverra metus, et cursus nulla mi sed elit. Vestibulum
-                condimentum, mauris a mattis vestibulum, urna mauris cursus lorem, eu fringilla lacus
-                ante non est. Nullam vitae feugiat libero, eu consequat sem. Proin tincidunt neque
-                eros. Duis faucibus blandit ligula, mollis commodo risus sodales at. Sed rutrum et
-                turpis vel blandit. Nullam ornare congue massa, at commodo nunc venenatis varius.
-                Praesent mollis nisi at vestibulum aliquet. Sed sagittis congue urna ac consectetur.</p>
-            <p>Vestibulum pellentesque posuere lorem non aliquam. Mauris eleifend eleifend
-                felis aliquet ornare. Vestibulum porta velit at elementum elementum.</p>
-
-            <section style="text-align: center; font-size: 2em">
-                <ul class="actions">
-                    <li><a href="http://spf.io" class="button">Go to SPF.io!</a></li>
-                </ul>
-            </section>
-
-        </article>
+        <!-- Nav -->
+        {{> nav}}
 
     </div>
 </div>
 
 <div class="wrapper">
-    <div class="container" id="sub2">
+	<div class="container" id="main">
+		<header>
+			<h2>Products</h2>
+			<p>Marvelous inventions we hope will accelerate the gospel and bless the world.</p>
+		</header>
 
-        <!-- Content -->
-        <article id="content">
-            <header>
-                <h2>Project FIG</h2>
-                <p>What is Project FIG?</p>
-            </header>
-            <a href="#" class="image featured"><img src="images/pic06.jpg" alt="" /></a>
-
-
-            <p>Product placement here</p>
-            <p>Ut sed tortor luctus, gravida nibh eget, volutpat odio. Proin rhoncus, sapien
-                mollis luctus hendrerit, orci dui viverra metus, et cursus nulla mi sed elit. Vestibulum
-                condimentum, mauris a mattis vestibulum, urna mauris cursus lorem, eu fringilla lacus
-                ante non est. Nullam vitae feugiat libero, eu consequat sem. Proin tincidunt neque
-                eros. Duis faucibus blandit ligula, mollis commodo risus sodales at. Sed rutrum et
-                turpis vel blandit. Nullam ornare congue massa, at commodo nunc venenatis varius.
-                Praesent mollis nisi at vestibulum aliquet. Sed sagittis congue urna ac consectetur.</p>
-            <p>Mauris eleifend eleifend felis aliquet ornare. Vestibulum porta velit at elementum
-                gravida nibh eget, volutpat odio. Proin rhoncus, sapien
-                mollis luctus hendrerit, orci dui viverra metus, et cursus nulla mi sed elit. Vestibulum
-                condimentum, mauris a mattis vestibulum, urna mauris cursus lorem, eu fringilla lacus
-                ante non est. Nullam vitae feugiat libero, eu consequat sem. Proin tincidunt neque
-                eros. Duis faucibus blandit ligula, mollis commodo risus sodales at. Sed rutrum et
-                turpis vel blandit. Nullam ornare congue massa, at commodo nunc venenatis varius.
-                Praesent mollis nisi at vestibulum aliquet. Sed sagittis congue urna ac consectetur.</p>
-            <p>Vestibulum pellentesque posuere lorem non aliquam. Mauris eleifend eleifend
-                felis aliquet ornare. Vestibulum porta velit at elementum elementum.</p>
-
-            <section style="text-align: center; font-size: 2em">
-                <ul class="actions">
-                    <li><a href="http://fig.theotech.org/" class="button">Go to Project FIG!</a></li>
-                </ul>
-            </section>
-
-        </article>
-
-    </div>
-</div>
-
-<div class="wrapper">
-    <div class="container" id="sub3">
-
-        <!-- Content -->
-        <article id="content">
-            <header>
-                <h2>Ceaseless</h2>
-                <p>What is Ceaseless?</p>
-            </header>
-            <a href="#" class="image featured"><img src="images/pic06.jpg" alt="" /></a>
-
-
-            <p>Product placement here</p>
-            <p>Ut sed tortor luctus, gravida nibh eget, volutpat odio. Proin rhoncus, sapien
-                mollis luctus hendrerit, orci dui viverra metus, et cursus nulla mi sed elit. Vestibulum
-                condimentum, mauris a mattis vestibulum, urna mauris cursus lorem, eu fringilla lacus
-                ante non est. Nullam vitae feugiat libero, eu consequat sem. Proin tincidunt neque
-                eros. Duis faucibus blandit ligula, mollis commodo risus sodales at. Sed rutrum et
-                turpis vel blandit. Nullam ornare congue massa, at commodo nunc venenatis varius.
-                Praesent mollis nisi at vestibulum aliquet. Sed sagittis congue urna ac consectetur.</p>
-            <p>Mauris eleifend eleifend felis aliquet ornare. Vestibulum porta velit at elementum
-                gravida nibh eget, volutpat odio. Proin rhoncus, sapien
-                mollis luctus hendrerit, orci dui viverra metus, et cursus nulla mi sed elit. Vestibulum
-                condimentum, mauris a mattis vestibulum, urna mauris cursus lorem, eu fringilla lacus
-                ante non est. Nullam vitae feugiat libero, eu consequat sem. Proin tincidunt neque
-                eros. Duis faucibus blandit ligula, mollis commodo risus sodales at. Sed rutrum et
-                turpis vel blandit. Nullam ornare congue massa, at commodo nunc venenatis varius.
-                Praesent mollis nisi at vestibulum aliquet. Sed sagittis congue urna ac consectetur.</p>
-            <p>Vestibulum pellentesque posuere lorem non aliquam. Mauris eleifend eleifend
-                felis aliquet ornare. Vestibulum porta velit at elementum elementum.</p>
-
-            <section style="text-align: center; font-size: 2em">
-                <ul class="actions">
-                    <li><a href="http://www.ceaselessprayer.com/" class="button">Go to Ceaseless!</a></li>
-                </ul>
-            </section>
-
-        </article>
-
-    </div>
+		<div class="row features">
+		{{#each products}}
+		    <section class="4u feature">
+			<div class="image-wrapper first">
+			    <a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
+			</div>
+			<header>
+			    <h3>{{title}}</h3>
+			</header>
+			<p>{{tagline}}</p>
+			<ul class="actions">
+			    <li><a href="{{link}}" class="button">More Info</a></li>
+			</ul>
+		    </section>
+		{{/each}}
+		</div>
+	</div>
 </div>
