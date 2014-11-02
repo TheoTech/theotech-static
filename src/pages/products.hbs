@@ -4,21 +4,33 @@ products:
 - title:
     SPF.IO
   tagline:
-    Deliver amazing multilingual experiences 
+    Wow your audience with amazing multilingual experiences using the synchronous presentation framework. 
   link:
     http://spf.io
+  image:
+    images/spfio-mark.png
+  image-title:
+    SPF.IO - Creating amazing multilingual experiences with the synchronous presentation framework.
 - title:
     Ceaseless
   tagline:
-    Experience the joy of praying for others
+    Experience the joy of praying for others. By praying for 3 friends a day we can together pray for everyone on earth!
   link:
     http://ceaselessprayer.com
+  image:
+    images/ceaseless-mark.png
+  image-title:
+    Ceaseless - Personal prayer for everyone on earth
 - title:
     Project FIG
   tagline:
-    Navigate the Bible in any language with your voice 
+    The Fully Interactive Gospel enables even the illiterate to have convenient access to the Bible using only their voice. 
   link:
     http://fig.theotech.org
+  image:
+    images/fig-1.jpg
+  image-title:
+    CC2.0 by noelzialee https://creativecommons.org/licenses/by/2.0/
 ---
 <!-- Header -->
 <div id="header-wrapper">
@@ -34,14 +46,14 @@ products:
 	<div class="container" id="main">
 		<header>
 			<h2>Products</h2>
-			<p>Marvelous inventions we hope will accelerate the gospel and bless the world.</p>
+			<p>Marvelous inventions to accelerate the gospel and bless the world.</p>
 		</header>
 
 		<div class="row features">
 		{{#each products}}
 		    <section class="4u feature">
 			<div class="image-wrapper first">
-			    <a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
+			    <a href="#" class="image featured"><img src="{{image}}" alt="" title="{{image-title}}" /></a>
 			</div>
 			<header>
 			    <h3>{{title}}</h3>
