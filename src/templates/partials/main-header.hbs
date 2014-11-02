@@ -1,29 +1,28 @@
 <!-- Header -->
 <div id="header-wrapper">
     <div id="header" class="container">
-
         <!-- Logo -->
-        <!--<h1 id="logo"><a href="index.html">Telephasic</a></h1>-->
+        <div id="logo">
+		<a href="index.html">
+			{{> logo }}
+		</a>
+	</div>
         {{> nav }}
-
     </div>
 
     <!-- Hero -->
     <section id="hero" class="container">
         <header>
             <h2>
-		{{> logo }}
+		Do what you love for a cause that matters.
             </h2>
         </header>
-
-        <ul class="actions">
-            <li><a href="#footer-wrapper" class="button">Accelerate the Gospel</a></li>
+	<p>Getting the gospel to everyone on earth requires invention, creativity, skill and passion. We dream of developing and unleashing the gifts God has given you to make it happen.</p>
+	<ul class="actions">
+            <li><a href="#promo-video" class="button">Watch an example <span class="icon fa-angle-double-down" style="position:relative;top:0.1em;left:0.2em"></span></a></li>
         </ul>
 
-        {{md 'src/content/intro.md'}}
-
-
-        <div class="video-container">
+        <div id="promo-video" class="video-container">
             <iframe width="560" height="315"
                     src="http://www.youtube.com/embed/hNCyqX-4PBY?rel=0" frameborder="0" allowfullscreen>
             </iframe>
@@ -31,5 +30,7 @@
 
 
     </section>
-
+    <section class="container">
+	    {{md 'src/content/intro.md'}}
+    </section>
 </div>

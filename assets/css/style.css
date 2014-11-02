@@ -639,12 +639,8 @@
 			border-color: rgba(255,255,255,0.75);
 			border-top: 0;
 			border-radius: 0 0 0.35em 0.35em;
-			color: #fff;
 			display: inline-block;
-			font-weight: 600;
-			letter-spacing: 3px;
 			text-align: center;
-			text-transform: uppercase;
 		}
 
 	#nav
@@ -813,17 +809,17 @@
 
 		#hero .button
 		{
-			background: rgba(235, 237, 44, 0.28);
-			border-color: rgba(255,255,255,0);
-			color: #7d8182;
+			border-color: rgba(255,255,255,0.75);
+			background-color: rgba(255,255,255,0.15);
+			color: #fff;
 			font-size: 1.75em;
 		}
 
 			#hero .button:hover
 			{
-                border-color: rgba(255,255,255,0.75);
-                background-color: rgba(255,255,255,0.15);
-                color: #fff;
+				background: rgba(235, 237, 44, 0.28);
+				border-color: rgba(255,255,255,0);
+				color: #fff;
 			}
 
 		#hero a
