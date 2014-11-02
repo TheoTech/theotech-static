@@ -813,9 +813,9 @@
 
 		#hero .button
 		{
-			background: #b1aeaa;
+			background: rgba(235, 237, 44, 0.28);
 			border-color: rgba(255,255,255,0);
-			color: #ebed2c;
+			color: #7d8182;
 			font-size: 1.75em;
 		}
 
