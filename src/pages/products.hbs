@@ -33,14 +33,7 @@ products:
     CC2.0 by noelzialee https://creativecommons.org/licenses/by/2.0/
 ---
 <!-- Header -->
-<div id="header-wrapper">
-    <div id="header" class="container">
-
-        <!-- Nav -->
-        {{> nav}}
-
-    </div>
-</div>
+{{> nav}}
 
 <div class="wrapper">
 	<div class="container" id="main">
@@ -53,14 +46,14 @@ products:
 		{{#each products}}
 		    <section class="4u feature">
 			<div class="image-wrapper first">
-			    <a href="#" class="image featured"><img src="{{image}}" alt="" title="{{image-title}}" /></a>
+			    <a href="{{link}}" target="_blank" class="image featured"><img src="{{image}}" alt="" title="{{image-title}}" /></a>
 			</div>
 			<header>
 			    <h3>{{title}}</h3>
 			</header>
 			<p>{{tagline}}</p>
 			<ul class="actions">
-			    <li><a href="{{link}}" class="button">More Info</a></li>
+			    <li><a href="{{link}}" target="_blank" class="button">More Info</a></li>
 			</ul>
 		    </section>
 		{{/each}}
