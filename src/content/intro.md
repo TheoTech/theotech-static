@@ -16,8 +16,8 @@ We want to develop people with this mindset by inventing products that create op
 		</tr>
 	</table>
 </div>
-
-I invite you to explore our [products](products.html) and to [sign up]() for updates on our forthcoming community.
+<hr/>
+I invite you to explore our [products](products.html) and to [sign up]() for updates on our forthcoming community. Our [FAQ](faq.html) goes into greater detail about our philosophy and group.
 
 Sincerely,
 

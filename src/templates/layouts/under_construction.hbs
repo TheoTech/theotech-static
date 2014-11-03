@@ -20,27 +20,44 @@
 
         <!-- Nav -->
         {{> nav}}
-
     </div>
 </div>
 
 <!-- Main -->
 <div class="wrapper">
-    <div class="container" id="main" style="padding: 0">
+    <div class="container" id="main">
 
         <!--Product Header -->
         <header>
-            <h2 style="text-align: center; font-size: 3em">Theotech's {{title}}</h2>
-            <p style="text-align: center; font-size: 2em; color: black">
+            <h2>{{title}}</h2>
+            <p>
                 {{summary}}
             </p>
         </header>
-
+	{{> body }}
     </div>
 </div>
 
-<!-- Content -->
-{{> body}}
+<div class="wrapper">
+    <div class="container" id="sub2">
+
+        <!-- Content -->
+        <article id="content">
+            <header style="text-align: center">
+                <h2>This Page is Currently Under Construction</h2>
+                <p>Please leave your contact information so we can inform you when we're done building</p>
+            </header>
+
+            <section style="text-align: center; font-size: 2em">
+                <ul class="actions">
+                    <li><a href="#footer-wrapper" class="button">Contact</a></li>
+                </ul>
+            </section>
+
+        </article>
+
+    </div>
+</div>
 
 <!-- Footer -->
 {{> footer}}
