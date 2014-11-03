@@ -1,5 +1,5 @@
-##FAQ
-
+## Frequently Asked Questions
+<hr/>
 ### Why does TheoTech need to exist?
 Because opportunities to use technology to advance the gospel are so vast, it takes a company to deliver real and worthy results. A company is needed to align people’s interests and labor over the long term towards fulfilling Gospel-centered goals via invention.
 ### What is TheoTech?
