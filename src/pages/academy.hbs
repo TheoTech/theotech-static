@@ -2,11 +2,13 @@
 title: TheoTech Academy
 layout: src/templates/layouts/under_construction.hbs
 summary: Share what you know and learn from others 
+signup-message: Submit this form to get notified when the TheoTech Academy launches.
 ---
 
     <div class="container" id="sub1">
         <article id="content">
 		{{ md 'src/content/academy.md' }}
         </article>
+	<h3>{{ signup-message }}</h3>
+	{{> signup-form }}
     </div>
-

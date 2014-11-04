@@ -2,9 +2,12 @@
 title: TheoTech Community
 layout: src/templates/layouts/under_construction.hbs
 summary: You're not alone 
+signup-message: Submit this form to reserve your spot when the TheoTech Community launches.
 ---
     <div class="container" id="sub1">
         <article id="content">
 		{{md "src/content/community.md"}}
         </article>
+	<h3>{{ signup-message }}</h3>	
+	{{> signup-form }}
     </div>
