@@ -78,7 +78,7 @@
 	
 		a:hover
 		{
-			color: #f35858;
+			color: #cfaf24;
 			border-bottom-color: rgba(255,255,255,0);
 		}
 
@@ -122,7 +122,7 @@
 	
 	p, ul, ol, dl, table, .features
 	{
-		margin-bottom: 1.5em;
+		margin-bottom: 0.75em;
 	}
 
 	br.clear
@@ -163,13 +163,13 @@
 
 		header
 		{
-			margin-bottom: 1.5em;
+			margin-bottom: 0.5em;
 		}
 		
 			header > p
 			{
 				display: block;
-				color: #f35858;
+				color: #cfaf24;
 				padding: 0.75em 0 1em 0;
 				font-size: 1.5em;
 				line-height: 1.5em;
@@ -482,7 +482,7 @@
 		.button
 		{
 			display: inline-block;
-			color: inherit;
+			color: #000000;
 			background: none;
 			text-decoration: none;
 			border: solid 1px #c2c7cc;
@@ -502,8 +502,8 @@
 			input[type="reset"]:hover,
 			.button:hover
 			{
-				color: #f35858;
-				border-color: rgba(243,88,88,0.5);
+				color: #cfaf24;
+				border-color: rgba(235, 237, 44, 0.50);
 			}
 
 /*********************************************************************************/
@@ -576,11 +576,11 @@
 		background-image:		url('images/header.svg');
 		background-size:		100% 620%;
 		
-		background-image:		url('images/overlay.png'),	url('images/header.svg'),	-moz-linear-gradient(75deg, #FF7088 15%, #F2B69D 55%);
-		background-image:		url('images/overlay.png'),	url('images/header.svg'),	-webkit-linear-gradient(75deg, #FF7088 15%, #F2B69D 55%);
-		background-image:		url('images/overlay.png'),	url('images/header.svg'),	-o-linear-gradient(75deg, #FF7088 15%, #F2B69D 55%);
-		background-image:		url('images/overlay.png'),	url('images/header.svg'),	-ms-linear-gradient(75deg, #FF7088 15%, #F2B69D 55%);
-		background-image:		url('images/overlay.png'),	url('images/header.svg'),	linear-gradient(75deg, #FF7088 15%, #F2B69D 55%);
+		background-image:		url('images/overlay.png'),	url('images/header.svg'),	-moz-linear-gradient(75deg, #7d8182 15%, #cfaf24 55%);
+		background-image:		url('images/overlay.png'),	url('images/header.svg'),	-webkit-linear-gradient(75deg, #7d8182 15%, #cfaf24 55%);
+		background-image:		url('images/overlay.png'),	url('images/header.svg'),	-o-linear-gradient(75deg, #7d8182 15%, #cfaf24 55%);
+		background-image:		url('images/overlay.png'),	url('images/header.svg'),	-ms-linear-gradient(75deg, #7d8182 15%, #cfaf24 55%);
+		background-image:		url('images/overlay.png'),	url('images/header.svg'),	linear-gradient(75deg, #7d8182 15%, #cfaf24 55%);
 		background-size:		128px 128px,				100% 620%,					auto;
 		background-repeat:		repeat,						no-repeat,					no-repeat;
 	}
@@ -639,12 +639,8 @@
 			border-color: rgba(255,255,255,0.75);
 			border-top: 0;
 			border-radius: 0 0 0.35em 0.35em;
-			color: #fff;
 			display: inline-block;
-			font-weight: 600;
-			letter-spacing: 3px;
 			text-align: center;
-			text-transform: uppercase;
 		}
 
 	#nav
@@ -740,7 +736,7 @@
 		.dropotron li.active > a,
 		.dropotron li.active > span
 		{
-			color: #f35858;
+			color: #cfaf24;
 		}
 	
 	.dropotron.level-0
@@ -813,17 +809,17 @@
 
 		#hero .button
 		{
-			background: #fff;
-			border-color: rgba(255,255,255,0);
-			color: #f08c89;
-			font-size: 1.25em;
+			border-color: rgba(255,255,255,0.75);
+			background-color: rgba(255,255,255,0.15);
+			color: #fff;
+			font-size: 1.75em;
 		}
 
 			#hero .button:hover
 			{
-				border-color: rgba(255,255,255,0.75);
-				background-color: rgb(0, 0, 0);
-				color: #00fff5;
+				background: rgba(235, 237, 44, 0.28);
+				border-color: rgba(255,255,255,0);
+				color: #fff;
 			}
 
 		#hero a
