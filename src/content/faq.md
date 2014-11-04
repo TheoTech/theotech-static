@@ -7,8 +7,11 @@ Because opportunities to use technology to advance the gospel are so vast, it ta
 It is a company that practices Technology Entrepreneurship for the Gospel (TE4G). It aspires to be earth’s most God-centered company by beginning with God as its foremost customer and creating products and experiences that fulfill His desires and bless the world.
 
 ### How does TheoTech fulfill its purpose?
-Read this document about what TheoTech does.
+[See below](#what-does-theotech-do-) to read about what TheoTech does.
 We look for virtuous cycles where investments of time and energy produce momentum towards kingdom outcomes. This means that we have leverage--more value is produced than consumed. Here is a sample flywheel for increasing personal prayer.
+<div class="image centered">
+<img src="images/sample-prayer-flywheel.png"/>
+</div>
 
 ### What could happen if TheoTech succeeds and is it worth it?
 If TheoTech succeeds, its Kingdom investors will have more capital to invest in Kingdom outcomes, its employees and collaborators will be well provided for and overjoyed at the opportunity to use their gifts to advance the Gospel, and its customers will be blessed with products that help them to love God and one another. The side-effect of these outcomes is many joyful foretastes of the Kingdom of God enjoyed to the ends of the earth.
@@ -113,7 +116,7 @@ A community of practice that helps and teaches one another.
 A network fostering connections between people so that ideas can have the backing of a team of people to make them real.
 	</li>
 	<li>
-Fostering in-person communities in technology companies so that entrepreneurs and technologies are able to pastor and support one another and think critically about how the work they do advances God’s kingdom and how they can imbue their work and workplace with the values of God’s kingdom.
+Fostering in-person communities in technology companies so that entrepreneurs and technologists are able to pastor and support one another and think critically about how the work they do advances God’s kingdom and how they can imbue their work and workplace with the values of God’s kingdom.
 	</li>
 </ol>
 
@@ -127,8 +130,5 @@ Economics is the study of how people love one another as they love themselves be
 	</li>
 	<li>
 Technology is just an avenue of grace that the Holy Spirit can choose to use to transform people’s lives.
-	</li>
-	<li>
-Intellectual Property: Let’s create our own open source license that has the freedom and liberality of MIT, but explicitly credits God like Bach used to sign his compositions with SDG “Soli Deo Gloria”. It could be called the TheoTech Public License. Make code of the highest quality and share it widely. Let the license acknowledge Christ, potentially include references to Scripture as the specific reasons why the code was brought into existence when relevant. Ask users of the code to agree not to use it in ways that do not violate certain tenets of justice, righteousness and steadfast love.
 	</li>
 </ol>
