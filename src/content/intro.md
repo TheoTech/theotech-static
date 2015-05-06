@@ -18,7 +18,9 @@ We invite others to adopt this mindset and __“do what they love for a cause th
 	</table>
 </div>
 <hr/>
-I invite you to explore our [products](products.html) and [sign up]() for updates on our forthcoming community. This [FAQ](faq.html) goes into greater detail about our philosophy. I've also written a brief [backstory on TheoTech](backstory.html) for the curious. Thanks for reading!
+I invite you to explore our [products](products.html) and [sign up]() for updates on our forthcoming community. This [FAQ](faq.html) goes into greater detail about our philosophy. Here are links to two talks I've recently given:
+* <i class="fa fa-youtube-play"></i>&nbsp;[__Coding in the Dark:__ The Risks and Rewards of Innovating for the Kingdom](https://www.youtube.com/watch?v=2IBjA3FMhoI&feature=youtu.be) 
+* <i class="fa fa-youtube-play"></i>&nbsp;[__Accelerating the Gospel:__ How technology enables us to deliver Kingdom foretastes like never before](https://www.youtube.com/watch?v=tK_YNlK7KBg)
 
 <p>
 Sincerely,
