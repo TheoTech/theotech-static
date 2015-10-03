@@ -47,7 +47,7 @@ If TheoTech succeeds, its Kingdom investors will have more capital to invest in 
 </table>
 </div>
 
-### Why does a new for-profit entity to need to exist to pursue and deliver these outcomes?
+### Why does a new for-profit entity need to exist to pursue and deliver these outcomes?
 <ol class="default">
 	<li>
 __Aligning Incentives__: Every stakeholder’s reward is linked to the common good and the corporation’s success in accomplishing its Gospel-centered purpose.
